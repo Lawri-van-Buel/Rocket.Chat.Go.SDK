@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/RocketChat/Rocket.Chat.Go.SDK/models"
+	"github.com/Lawri-van-Buel/Rocket.Chat.Go.SDK/models"
 )
 
 type MessagesResponse struct {
